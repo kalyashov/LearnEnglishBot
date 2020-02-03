@@ -1,0 +1,33 @@
+### Java ###
+
+/*/bin/
+/*/*/bin/*
+/*/test-bin/
+/*/bin-test/
+*.log
+*.class
+**/test-reports/
+**/test-it-reports/
+**/*.local.properties
+**/*.local.yaml
+*.patch
+
+# Package Files #
+*.war
+*.ear
+
+### Intellij ###
+
+.ideaDataSources/
+dataSources/
+.idea/
+.shelf/
+/out/
+*.iml
+*.iws
+*.ipr
+*.ids
+*/out/*
+
+### Project ###
+bot_config.properties
